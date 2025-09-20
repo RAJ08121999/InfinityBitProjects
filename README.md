@@ -1,6 +1,3 @@
-Okay, here's a comprehensive `README.md` file content for your Driving School Project, designed to be informative, engaging, and suitable for a professional portfolio or interview discussion.
-
----
 
 # Driving School Management Application
 
